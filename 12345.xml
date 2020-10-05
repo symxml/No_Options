@@ -3,8 +3,8 @@
 
 <InstallVariables>
 <InstallVar name="ipaddress1">10.0.0.200</InstallVar>
-<InstallVar name="Location1">HomeOffice</InstallVar>
-<InstallVar name="PPDModel1">C558</InstallVar>
+<InstallVar name="Location1">Office</InstallVar>
+<InstallVar name="PPDModel1">558</InstallVar>
 <InstallVar name="PrinterNamebw1">KM_BW</InstallVar>
 <InstallVar name="PrinterNameclr1">KM_COLOR</InstallVar>
 
